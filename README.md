@@ -1,6 +1,8 @@
-# kaggle_h-and-m
-Kaggle H&amp;Mコンペ 17th Place Solution
+# Kaggle H&M 17th Place Solution
+KaggleのH&Mコンペにソロ参加し、17位で銀メダルを獲得しました。
+
 
 ## コンペ概要
-https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations
+H&M Personalized Fashion Recommendations
 
+https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations
